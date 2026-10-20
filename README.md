@@ -1,9 +1,4 @@
-<p align="center">
-  <picture>
-   
-    <img alt="tanmayikt98-coder's GitHub profile" src="dark_mode.svg" width="100%" />
-  </picture>
-</p>
+
 
 <p align="center">
   <img src="avatar.png" alt="Tanmayi K T" width="130" height="130" style="border-radius: 50%; max-width: 100%; border: 3px solid #879B83;" />
